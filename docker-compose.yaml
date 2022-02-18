@@ -1,0 +1,6 @@
+version: "2.0"
+services:
+  sherlock-api:
+    build: .
+    ports:
+      - "4000:4000"

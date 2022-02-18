@@ -1,0 +1,107 @@
+[
+  {
+    "number": 24,
+    "description" : "case 24",
+    "name": "The Adventure of the reporter's List",
+    "clues" : {
+      "chemist" : 81,
+      "bank" : 283,
+      "carriageDepot" : 154,
+      "docks" : 227,
+      "hotel": 374,
+      "locksmith": 24,
+      "museum": 336,
+      "newsagents": 417,
+      "park": 103,
+      "pawnbroker": 188,
+      "theatre": 331,
+      "boarsHead": 55,
+      "scotlandYard": 268,
+      "tobacconist": 129
+    }
+  },
+  {
+    "number": 10,
+    "description" : "case 10",
+    "name": "The Adventure of the bludgeoning bobby",
+    "clues" : {
+      "chemist" : 3,
+      "bank" : 151,
+      "carriageDepot" : 286,
+      "docks" : 181,
+      "hotel": 311,
+      "locksmith": 33,
+      "museum": 404,
+      "newsagents": 213,
+      "park": 337,
+      "pawnbroker": 69,
+      "theatre": 248,
+      "boarsHead": 371,
+      "scotlandYard": 131,
+      "tobacconist": 94
+    }
+  },
+  {
+    "number": 9,
+    "description" : "case 9",
+    "name": "The Adventure of the suicidal architect",
+    "clues" : {
+      "chemist" : 132,
+      "bank" : 12,
+      "carriageDepot" : 193,
+      "docks" : 246,
+      "hotel": 44,
+      "locksmith": 321,
+      "museum": 170,
+      "newsagents": 342,
+      "park": 66,
+      "pawnbroker": 228,
+      "theatre": 367,
+      "boarsHead": 100,
+      "scotlandYard": 390,
+      "tobacconist": 291
+    }
+  },
+  {
+    "number": 8,
+    "description" : "case 8",
+    "name": "The Adventure of the locked chamber",
+    "clues" : {
+      "chemist" : 63,
+      "bank" : 121,
+      "carriageDepot" : 247,
+      "docks" : 340,
+      "hotel": 275,
+      "locksmith": 35,
+      "museum": 396,
+      "newsagents": 171,
+      "park": 302,
+      "pawnbroker": 419,
+      "theatre": 95,
+      "boarsHead": 376,
+      "scotlandYard": 223,
+      "tobacconist": 182
+    }
+  },
+  {
+    "number": 7,
+    "description" : "case 7",
+    "name": "The Adventure of the eternal sleep",
+    "clues" : {
+      "chemist" : 108,
+      "bank" : 198,
+      "carriageDepot" : 37,
+      "docks" : 259,
+      "hotel": 147,
+      "locksmith": 296,
+      "museum": 6,
+      "newsagents": 350,
+      "park": 159,
+      "pawnbroker": 386,
+      "theatre": 309,
+      "boarsHead": 70,
+      "scotlandYard": 410,
+      "tobacconist": 214
+    }
+  }
+]
