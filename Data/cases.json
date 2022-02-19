@@ -124,5 +124,26 @@
       "scotlandYard": 225,
       "tobacconist": 119
     }
+  },
+  {
+    "number": 14,
+    "description" : "case 14",
+    "name": "The Adventure of the bones of contention",
+    "clues" : {
+      "chemist" : 10,
+      "bank" : 31,
+      "carriageDepot" : 130,
+      "docks" : 270,
+      "hotel": 319,
+      "locksmith": 378,
+      "museum": 153,
+      "newsagents": 62,
+      "park": 352,
+      "pawnbroker": 196,
+      "theatre": 298,
+      "boarsHead": 26,
+      "scotlandYard": 225,
+      "tobacconist": 119
+    }
   }
 ]
