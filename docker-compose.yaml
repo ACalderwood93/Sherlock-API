@@ -1,6 +1,6 @@
 version: "2.0"
 services:
   sherlock-api:
-    build: .
+    image: acalderwood93/sherlock-api:latest
     ports:
       - "4000:4000"
