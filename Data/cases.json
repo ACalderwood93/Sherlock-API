@@ -145,5 +145,110 @@
       "scotlandYard": 225,
       "tobacconist": 119
     }
+  },
+  {
+    "number": 15,
+    "description" : "case 15",
+    "name": "The Adventure of the repeated murder",
+    "clues" : {
+      "chemist" : 97,
+      "bank" : 287,
+      "carriageDepot" : 150,
+      "docks" : 56,
+      "hotel": 185,
+      "locksmith": 363,
+      "museum": 174,
+      "newsagents": 84,
+      "park": 260,
+      "pawnbroker": 314,
+      "theatre": 415,
+      "boarsHead": 332,
+      "scotlandYard": 235,
+      "tobacconist": 19
+    }
+  },
+  {
+    "number": 16,
+    "description" : "case 16",
+    "name": "The Adventure of the missing plans from the journal of DR Watson",
+    "clues" : {
+      "chemist" : 113,
+      "bank" : 231,
+      "carriageDepot" : 330,
+      "docks" : 145,
+      "hotel": 269,
+      "locksmith": 366,
+      "museum": 30,
+      "newsagents": 413,
+      "park": 155,
+      "pawnbroker": 348,
+      "theatre": 42,
+      "boarsHead": 204,
+      "scotlandYard": 278,
+      "tobacconist": 82
+    }
+  },
+  {
+    "number": 17,
+    "description" : "case 17",
+    "name": "The Adventure of the rewritten death",
+    "clues" : {
+      "chemist" : 180,
+      "bank" : 370,
+      "carriageDepot" : 67,
+      "docks" : 244,
+      "hotel": 303,
+      "locksmith": 133,
+      "museum": 294,
+      "newsagents": 34,
+      "park": 392,
+      "pawnbroker": 93,
+      "theatre": 183,
+      "boarsHead": 401,
+      "scotlandYard": 205,
+      "tobacconist": 112
+    }
+  },
+  {
+    "number": 1,
+    "description" : "case 1",
+    "name": "The Adventure of the unholy man",
+    "clues" : {
+      "chemist" : 3,
+      "bank" : 28,
+      "carriageDepot" : 58,
+      "docks" : 76,
+      "hotel": 115,
+      "locksmith": 136,
+      "museum": 168,
+      "newsagents": 191,
+      "park": 218,
+      "pawnbroker": 243,
+      "theatre": 280,
+      "boarsHead": 304,
+      "scotlandYard": 351,
+      "tobacconist": 384
+    }
+  },
+  {
+    "number": 11,
+    "description" : "case 11",
+    "name": "The Adventure of the tobacconist's demise",
+    "clues" : {
+      "chemist" : 80,
+      "bank" : 156,
+      "carriageDepot" : 104,
+      "docks" : 238,
+      "hotel": 406,
+      "locksmith": 48,
+      "museum": 200,
+      "newsagents": 267,
+      "park": 388,
+      "pawnbroker": 21,
+      "theatre": 301,
+      "boarsHead": 359,
+      "scotlandYard": 124,
+      "tobacconist": 326
+    }
   }
 ]
