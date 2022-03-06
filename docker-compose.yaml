@@ -5,4 +5,4 @@ services:
     ports:
       - "4000:4000"
     environment:
-      - MONGO_URL=mongodb://panda-server:27017
+      - MONGO_URL=mongodb://host.docker.internal:27017
