@@ -32,7 +32,25 @@ const getAll = async () => {
   }
 };
 
+const upsertCase = async (caseInput) => {
+  const client = initClient();
+  try {
+    client.connect();
+
+    const database = client.db(DB_NAME);
+    const casesCollection = database.collection(COLLECTION_NAME);
+    const query = { number: caseInput.input.number };
+    const update = { $set: caseInput.input };
+    const options = { upsert: true };
+    const value = await casesCollection.updateOne(query, update, options);
+    return value;
+  } finally {
+    client.close();
+  }
+};
+
 module.exports = {
   getCase,
   getAll,
+  upsertCase,
 };

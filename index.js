@@ -3,7 +3,11 @@ require("dotenv").config();
 const cases = require("./Data/cases.json");
 const clues = require("./Data/clues.json");
 
-const { getCase, getAll } = require("./repositories/caseRepository");
+const {
+  getCase,
+  getAll,
+  upsertCase,
+} = require("./repositories/caseRepository");
 const { getClue } = require("./repositories/clueRepository");
 // A schema is a collection of type definitions (hence "typeDefs")
 // that together define the "shape" of queries that are executed against
@@ -41,12 +45,39 @@ const typeDefs = gql`
     tobacconist: Clue
   }
 
+  input CluesInput {
+    chemist: Int!
+    bank: Int!
+    carriageDepot: Int!
+    docks: Int!
+    hotel: Int!
+    locksmith: Int!
+    museum: Int!
+    newsagents: Int!
+    park: Int!
+    pawnbroker: Int!
+    theatre: Int!
+    boarsHead: Int!
+    scotlandYard: Int!
+    tobacconist: Int!
+  }
+
+  input upsertCaseInput {
+    name: String!
+    number: Int!
+    clues: CluesInput!
+  }
+
   # The "Query" type is special: it lists all of the available queries that
   # clients can execute, along with the return type for each. In this
   # case, the "books" query returns an array of zero or more Books (defined above).
   type Query {
     cases: [Case]
     case(number: Int): Case
+  }
+
+  type Mutation {
+    Case(input: upsertCaseInput): Boolean
   }
 `;
 
@@ -73,6 +104,12 @@ const resolvers = {
     boarsHead: async (parent) => await getClue(parent.boarsHead),
     scotlandYard: async (parent) => await getClue(parent.scotlandYard),
     tobacconist: async (parent) => await getClue(parent.tobacconist),
+  },
+  Mutation: {
+    Case: async (_, input) => {
+      const value = await upsertCase(input);
+      return value.acknowledged;
+    },
   },
 };
 
