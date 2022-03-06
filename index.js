@@ -65,6 +65,7 @@ const typeDefs = gql`
   input upsertCaseInput {
     name: String!
     number: Int!
+    description: String!
     clues: CluesInput!
   }
 
@@ -91,7 +92,7 @@ const resolvers = {
   },
   Clues: {
     chemist: async (parent) => await getClue(parent.chemist),
-    bank: async (parent) => await getClue(parent.chemist),
+    bank: async (parent) => await getClue(parent.bank),
     carriageDepot: async (parent) => await getClue(parent.carriageDepot),
     docks: async (parent) => await getClue(parent.docks),
     hotel: async (parent) => await getClue(parent.hotel),
