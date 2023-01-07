@@ -317,7 +317,7 @@
   {
     "number": 16,
     "description": "case 16",
-    "name": "The Adventure of the missing plans from the journal of Dr Watson",
+    "name": "The Adventure of the Missing Plans from the Journal of Dr Watson",
     "clues": {
       "chemist": 113,
       "bank": 231,
@@ -338,7 +338,7 @@
   {
     "number": 17,
     "description": "case 17",
-    "name": "The Adventure of the rewritten death",
+    "name": "The Adventure of the Rewritten Death",
     "clues": {
       "chemist": 180,
       "bank": 370,
@@ -357,9 +357,135 @@
     }
   },
   {
+    "number": 18,
+    "description": "case 18",
+    "name": "The Adventure of the Luckless Mariner",
+    "clues": {
+      "chemist": 8,
+      "bank": 157,
+      "carriageDepot": 236,
+      "docks": 329,
+      "hotel": 65,
+      "locksmith": 380,
+      "museum": 122,
+      "newsagents": 274,
+      "park": 397,
+      "pawnbroker": 36,
+      "theatre": 261,
+      "boarsHead": 341,
+      "scotlandYard": 192,
+      "tobacconist": 99
+    }
+  },
+  {
+    "number": 19,
+    "description": "case 19",
+    "name": "The Adventure of the Unpaid Fare",
+    "clues": {
+      "chemist": 2,
+      "bank": 216,
+      "carriageDepot": 118,
+      "docks": 300,
+      "hotel": 138,
+      "locksmith": 368,
+      "museum": 161,
+      "newsagents": 349,
+      "park": 41,
+      "pawnbroker": 327,
+      "theatre": 211,
+      "boarsHead": 77,
+      "scotlandYard": 271,
+      "tobacconist": 405
+    }
+  },
+  {
+    "number": 20,
+    "description": "case 20",
+    "name": "The Adventure of the Peculiar Charwoman",
+    "clues": {
+      "chemist": 149,
+      "bank": 325,
+      "carriageDepot": 208,
+      "docks": 284,
+      "hotel": 59,
+      "locksmith": 263,
+      "museum": 172,
+      "newsagents": 412,
+      "park": 17,
+      "pawnbroker": 338,
+      "theatre": 387,
+      "boarsHead": 120,
+      "scotlandYard": 240,
+      "tobacconist": 88
+    }
+  },
+  {
+    "number": 21,
+    "description": "case 21",
+    "name": "The Adventure of the Bashful Benefactor",
+    "clues": {
+      "chemist": 140,
+      "bank": 189,
+      "carriageDepot": 32,
+      "docks": 322,
+      "hotel": 249,
+      "locksmith": 409,
+      "museum": 20,
+      "newsagents": 177,
+      "park": 334,
+      "pawnbroker": 85,
+      "theatre": 237,
+      "boarsHead": 389,
+      "scotlandYard": 109,
+      "tobacconist": 290
+    }
+  },
+  {
+    "number": 22,
+    "description": "case 22",
+    "name": "The Adventure of the Duplicate Deaths from the Journal of Dr Watson",
+    "clues": {
+      "chemist": 107,
+      "bank": 203,
+      "carriageDepot": 324,
+      "docks": 25,
+      "hotel": 375,
+      "locksmith": 126,
+      "museum": 178,
+      "newsagents": 233,
+      "park": 60,
+      "pawnbroker": 299,
+      "theatre": 411,
+      "boarsHead": 339,
+      "scotlandYard": 83,
+      "tobacconist": 256
+    }
+  },
+  {
+    "number": 23,
+    "description": "case 23",
+    "name": "The Adventure of the Banker's Note",
+    "clues": {
+      "chemist": 146,
+      "bank": 258,
+      "carriageDepot": 377,
+      "docks": 13,
+      "hotel": 162,
+      "locksmith": 317,
+      "museum": 47,
+      "newsagents": 353,
+      "park": 194,
+      "pawnbroker": 279,
+      "theatre": 90,
+      "boarsHead": 403,
+      "scotlandYard": 220,
+      "tobacconist": 101
+    }
+  },
+  {
     "number": 24,
     "description": "case 24",
-    "name": "The Adventure of the reporter's list",
+    "name": "The Adventure of the Reporter's List",
     "clues": {
       "chemist": 81,
       "bank": 283,
@@ -375,6 +501,132 @@
       "boarsHead": 55,
       "scotlandYard": 268,
       "tobacconist": 129
+    }
+  },
+  {
+    "number": 25,
+    "description": "case 25",
+    "name": "The Adventure of the Bloodthirsty Bard",
+    "clues": {
+      "chemist": 116,
+      "bank": 355,
+      "carriageDepot": 57,
+      "docks": 394,
+      "hotel": 166,
+      "locksmith": 212,
+      "museum": 320,
+      "newsagents": 29,
+      "park": 206,
+      "pawnbroker": 281,
+      "theatre": 74,
+      "boarsHead": 391,
+      "scotlandYard": 255,
+      "tobacconist": 144
+    }
+  },
+  {
+    "number": 26,
+    "description": "case 26",
+    "name": "The Adventure of the Posthumous Client",
+    "clues": {
+      "chemist": 92,
+      "bank": 245,
+      "carriageDepot": 175,
+      "docks": 316,
+      "hotel": 51,
+      "locksmith": 239,
+      "museum": 364,
+      "newsagents": 71,
+      "park": 414,
+      "pawnbroker": 195,
+      "theatre": 297,
+      "boarsHead": 11,
+      "scotlandYard": 343,
+      "tobacconist": 142
+    }
+  },
+  {
+    "number": 27,
+    "description": "case 27",
+    "name": "The Adventure of the Spinster's Will",
+    "clues": {
+      "chemist": 164,
+      "bank": 379,
+      "carriageDepot": 111,
+      "docks": 224,
+      "hotel": 358,
+      "locksmith": 14,
+      "museum": 242,
+      "newsagents": 305,
+      "park": 127,
+      "pawnbroker": 75,
+      "theatre": 420,
+      "boarsHead": 277,
+      "scotlandYard": 199,
+      "tobacconist": 39
+    }
+  },
+  {
+    "number": 28,
+    "description": "case 28",
+    "name": "The Adventure of the Financier's Fall",
+    "clues": {
+      "chemist": 79,
+      "bank": 152,
+      "carriageDepot": 252,
+      "docks": 197,
+      "hotel": 318,
+      "locksmith": 399,
+      "museum": 27,
+      "newsagents": 361,
+      "park": 288,
+      "pawnbroker": 45,
+      "theatre": 383,
+      "boarsHead": 135,
+      "scotlandYard": 222,
+      "tobacconist": 110
+    }
+  },
+  {
+    "number": 29,
+    "description": "case 29",
+    "name": "The Adventure of the Thief's Cipher",
+    "clues": {
+      "chemist": 91,
+      "bank": 229,
+      "carriageDepot": 68,
+      "docks": 273,
+      "hotel": 169,
+      "locksmith": 347,
+      "museum": 418,
+      "newsagents": 43,
+      "park": 373,
+      "pawnbroker": 141,
+      "theatre": 310,
+      "boarsHead": 201,
+      "scotlandYard": 266,
+      "tobacconist": 1
+    }
+  },
+  {
+    "number": 30,
+    "description": "case 30",
+    "name": "The Adventure of the Giant Rat of Sumatra",
+    "clues": {
+      "chemist": 22,
+      "bank": 186,
+      "carriageDepot": 264,
+      "docks": 53,
+      "hotel": 308,
+      "locksmith": 148,
+      "museum": 215,
+      "newsagents": 407,
+      "park": 61,
+      "pawnbroker": 345,
+      "theatre": 160,
+      "boarsHead": 385,
+      "scotlandYard": 98,
+      "tobacconist": 276
     }
   }
 ]
