@@ -2,7 +2,7 @@
   {
     "number": 1,
     "description": "case 1",
-    "name": "The Adventure of the unholy man",
+    "name": "The Adventure of the Unholy Man",
     "clues": {
       "chemist": 3,
       "bank": 28,
@@ -21,9 +21,93 @@
     }
   },
   {
+    "number": 2,
+    "description": "case 2",
+    "name": "The Adventure of Silver Patch",
+    "clues": {
+      "chemist": 106,
+      "bank": 209,
+      "carriageDepot": 234,
+      "docks": 52,
+      "hotel": 289,
+      "locksmith": 313,
+      "museum": 15,
+      "newsagents": 346,
+      "park": 134,
+      "pawnbroker": 365,
+      "theatre": 87,
+      "boarsHead": 393,
+      "scotlandYard": 176,
+      "tobacconist": 262
+    }
+  },
+  {
+    "number": 3,
+    "description": "case 3",
+    "name": "The Adventure of Chameleon's Vengeance",
+    "clues": {
+      "chemist": 128,
+      "bank": 158,
+      "carriageDepot": 64,
+      "docks": 184,
+      "hotel": 254,
+      "locksmith": 5,
+      "museum": 272,
+      "newsagents": 382,
+      "park": 49,
+      "pawnbroker": 312,
+      "theatre": 102,
+      "boarsHead": 416,
+      "scotlandYard": 221,
+      "tobacconist": 333
+    }
+  },
+  {
+    "number": 4,
+    "description": "case 4",
+    "name": "The Adventure of the Kidnapped Infant",
+    "clues": {
+      "chemist": 207,
+      "bank": 6,
+      "carriageDepot": 251,
+      "docks": 163,
+      "hotel": 328,
+      "locksmith": 226,
+      "museum": 372,
+      "newsagents": 372,
+      "park": 408,
+      "pawnbroker": 292,
+      "theatre": 125,
+      "boarsHead": 187,
+      "scotlandYard": 344,
+      "tobacconist": 46
+    }
+  },
+  {
+    "number": 5,
+    "description": "case 5",
+    "name": "The Adventure of the Murdered Banker",
+    "clues": {
+      "chemist": 96,
+      "bank": 230,
+      "carriageDepot": 50,
+      "docks": 282,
+      "hotel": 72,
+      "locksmith": 190,
+      "museum": 315,
+      "newsagents": 16,
+      "park": 253,
+      "pawnbroker": 165,
+      "theatre": 360,
+      "boarsHead": 123,
+      "scotlandYard": 402,
+      "tobacconist": 369
+    }
+  },
+  {
     "number": 6,
     "description": "case 6",
-    "name": "The Adventure of the bones of contention",
+    "name": "The Adventure of the Bones of Contention",
     "clues": {
       "chemist": 10,
       "bank": 31,
@@ -44,7 +128,7 @@
   {
     "number": 7,
     "description": "case 7",
-    "name": "The Adventure of the eternal sleep",
+    "name": "The Adventure of the Eternal Sleep",
     "clues": {
       "chemist": 108,
       "bank": 198,
@@ -65,7 +149,7 @@
   {
     "number": 8,
     "description": "case 8",
-    "name": "The Adventure of the locked chamber",
+    "name": "The Adventure of the Locked Chamber",
     "clues": {
       "chemist": 63,
       "bank": 121,
@@ -86,7 +170,7 @@
   {
     "number": 9,
     "description": "case 9",
-    "name": "The Adventure of the suicidal architect",
+    "name": "The Adventure of the Suicidal Architect",
     "clues": {
       "chemist": 132,
       "bank": 12,
@@ -107,7 +191,7 @@
   {
     "number": 10,
     "description": "case 10",
-    "name": "The Adventure of the bludgeoning bobby",
+    "name": "The Adventure of the Bludgeoning Bobby",
     "clues": {
       "chemist": 4,
       "bank": 151,
@@ -128,7 +212,7 @@
   {
     "number": 11,
     "description": "case 11",
-    "name": "The Adventure of the tobacconist's demise",
+    "name": "The Adventure of the Tobacconist's Demise",
     "clues": {
       "chemist": 80,
       "bank": 156,
@@ -147,9 +231,51 @@
     }
   },
   {
+    "number": 12,
+    "description": "case 12",
+    "name": "The Adventure of the Waylaid Courier",
+    "clues": {
+      "chemist": 179,
+      "bank": 9,
+      "carriageDepot": 285,
+      "docks": 217,
+      "hotel": 40,
+      "locksmith": 306,
+      "museum": 356,
+      "newsagents": 78,
+      "park": 335,
+      "pawnbroker": 105,
+      "theatre": 400,
+      "boarsHead": 250,
+      "scotlandYard": 139,
+      "tobacconist": 381
+    }
+  },
+  {
+    "number": 13,
+    "description": "case 13",
+    "name": "The Adventure of the Beeswax Heiress",
+    "clues": {
+      "chemist": 73,
+      "bank": 219,
+      "carriageDepot": 137,
+      "docks": 265,
+      "hotel": 398,
+      "locksmith": 18,
+      "museum": 293,
+      "newsagents": 354,
+      "park": 114,
+      "pawnbroker": 210,
+      "theatre": 323,
+      "boarsHead": 38,
+      "scotlandYard": 241,
+      "tobacconist": 173
+    }
+  },
+  {
     "number": 14,
     "description": "case 14",
-    "name": "The Adventure of the coded message",
+    "name": "The Adventure of the Coded Message",
     "clues": {
       "chemist": 23,
       "bank": 117,
@@ -170,7 +296,7 @@
   {
     "number": 15,
     "description": "case 15",
-    "name": "The Adventure of the repeated murder",
+    "name": "The Adventure of the Repeated Murder",
     "clues": {
       "chemist": 97,
       "bank": 287,
