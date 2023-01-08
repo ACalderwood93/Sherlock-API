@@ -1258,5 +1258,320 @@
       "theatre": 798,
       "tobacconist": 721
     }
+  },
+  {
+    "number": 61,
+    "description": "case 61",
+    "name": "Sherlock Holmes and the Diogenes Head from the Journal of Dr Watson",
+    "clues": {
+      "bank": 754,
+      "boarsHead": 674,
+      "carriageDepot": 729,
+      "chemist": 704,
+      "docks": 758,
+      "hotel": 628,
+      "locksmith": 803,
+      "museum": 766,
+      "newsagents": 653,
+      "park": 692,
+      "pawnbroker": 778,
+      "scotlandYard": 724,
+      "theatre": 771,
+      "tobacconist": 745
+    }
+  },
+  {
+    "number": 62,
+    "description": "case 62",
+    "name": "The Case of the Melancholy Dane",
+    "clues": {
+      "bank": 671,
+      "boarsHead": 876,
+      "carriageDepot": 623,
+      "chemist": 800,
+      "docks": 657,
+      "hotel": 718,
+      "locksmith": 824,
+      "museum": 743,
+      "newsagents": 697,
+      "park": 868,
+      "pawnbroker": 851,
+      "scotlandYard": 713,
+      "theatre": 794,
+      "tobacconist": 785
+    }
+  },
+  {
+    "number": 63,
+    "description": "case 63",
+    "name": "Sherlock Holmes and the Rhyme of Death from the Journal of Dr Watson",
+    "clues": {
+      "bank": 816,
+      "boarsHead": 850,
+      "carriageDepot": 670,
+      "chemist": 663,
+      "docks": 805,
+      "hotel": 777,
+      "locksmith": 649,
+      "museum": 866,
+      "newsagents": 703,
+      "park": 862,
+      "pawnbroker": 629,
+      "scotlandYard": 756,
+      "theatre": 837,
+      "tobacconist": 734
+    }
+  },
+  {
+    "number": 64,
+    "description": "case 64",
+    "name": "The Case of the Strangled Lawyer from the Journal of Dr Watson",
+    "clues": {
+      "bank": 896,
+      "boarsHead": 964,
+      "carriageDepot": 987,
+      "chemist": 1039,
+      "docks": 919,
+      "hotel": 946,
+      "locksmith": 884,
+      "museum": 961,
+      "newsagents": 1028,
+      "park": 993,
+      "pawnbroker": 907,
+      "scotlandYard": 1003,
+      "theatre": 975,
+      "tobacconist": 934
+    }
+  },
+  {
+    "number": 65,
+    "description": "case 65",
+    "name": "The Case of the Body in Question from the Journal of Dr Watson",
+    "clues": {
+      "bank": 1017,
+      "boarsHead": 992,
+      "carriageDepot": 903,
+      "chemist": 1045,
+      "docks": 968,
+      "hotel": 1005,
+      "locksmith": 942,
+      "museum": 976,
+      "newsagents": 892,
+      "park": 920,
+      "pawnbroker": 1036,
+      "scotlandYard": 960,
+      "theatre": 1027,
+      "tobacconist": 913
+    }
+  },
+  {
+    "number": 66,
+    "description": "case 66",
+    "name": "The Case of the Dragon From Hell (Part 1) from the Journal of Dr Watson",
+    "clues": {
+      "bank": 954,
+      "boarsHead": 888,
+      "carriageDepot": 1038,
+      "chemist": 997,
+      "docks": 972,
+      "hotel": 930,
+      "locksmith": 1043,
+      "museum": 1021,
+      "newsagents": 941,
+      "park": 962,
+      "pawnbroker": 916,
+      "scotlandYard": 1013,
+      "theatre": 899,
+      "tobacconist": 981
+    }
+  },
+  {
+    "number": 67,
+    "description": "case 67",
+    "name": "The Case of the Dragon From Hell (Part 2) from the Journal of Dr Watson",
+    "clues": {
+      "bank": 890,
+      "boarsHead": 948,
+      "carriageDepot": 994,
+      "chemist": 1018,
+      "docks": 905,
+      "hotel": 1024,
+      "locksmith": 978,
+      "museum": 932,
+      "newsagents": 1034,
+      "park": 915,
+      "pawnbroker": 967,
+      "scotlandYard": 1046,
+      "theatre": 926,
+      "tobacconist": 1010
+    }
+  },
+  {
+    "number": 68,
+    "description": "case 68",
+    "name": "Sherlock Holmes and the Manor House Affair from the Journal of Dr Watson",
+    "clues": {
+      "bank": 895,
+      "boarsHead": 936,
+      "carriageDepot": 980,
+      "chemist": 958,
+      "docks": 1032,
+      "hotel": 1002,
+      "locksmith": 909,
+      "museum": 950,
+      "newsagents": 883,
+      "park": 985,
+      "pawnbroker": 928,
+      "scotlandYard": 1022,
+      "theatre": 918,
+      "tobacconist": 966
+    }
+  },
+  {
+    "number": 69,
+    "description": "case 69",
+    "name": "The Case of the Cryptic Message from the Journal of Dr Watson",
+    "clues": {
+      "bank": 1029,
+      "boarsHead": 1020,
+      "carriageDepot": 988,
+      "chemist": 887,
+      "docks": 924,
+      "hotel": 973,
+      "locksmith": 957,
+      "museum": 1011,
+      "newsagents": 945,
+      "park": 983,
+      "pawnbroker": 911,
+      "scotlandYard": 1000,
+      "theatre": 940,
+      "tobacconist": 898
+    }
+  },
+  {
+    "number": 70,
+    "description": "case 70",
+    "name": "The St Pancras Mystery from the Journal of Dr Watson",
+    "clues": {
+      "bank": 953,
+      "boarsHead": 1050,
+      "carriageDepot": 900,
+      "chemist": 1007,
+      "docks": 971,
+      "hotel": 931,
+      "locksmith": 1026,
+      "museum": 889,
+      "newsagents": 982,
+      "park": 944,
+      "pawnbroker": 996,
+      "scotlandYard": 912,
+      "theatre": 1037,
+      "tobacconist": 927
+    }
+  },
+  {
+    "number": 71,
+    "description": "case 71",
+    "name": "The Case of the Murder in the Maze from the Journal of Dr Watson",
+    "clues": {
+      "bank": 894,
+      "boarsHead": 989,
+      "carriageDepot": 1014,
+      "chemist": 925,
+      "docks": 951,
+      "hotel": 902,
+      "locksmith": 1009,
+      "museum": 963,
+      "newsagents": 998,
+      "park": 1033,
+      "pawnbroker": 938,
+      "scotlandYard": 977,
+      "theatre": 1025,
+      "tobacconist": 914
+    }
+  },
+  {
+    "number": 72,
+    "description": "case 72",
+    "name": "Sherlock Holmes and the Dead Tramp from the Journal of Dr Watson",
+    "clues": {
+      "bank": 1001,
+      "boarsHead": 979,
+      "carriageDepot": 939,
+      "chemist": 901,
+      "docks": 970,
+      "hotel": 923,
+      "locksmith": 999,
+      "museum": 1016,
+      "newsagents": 886,
+      "park": 929,
+      "pawnbroker": 955,
+      "scotlandYard": 990,
+      "theatre": 910,
+      "tobacconist": 1041
+    }
+  },
+  {
+    "number": 73,
+    "description": "case 73",
+    "name": "Sherlock Holmes and the 'Sophy Anderson' from the Journal of Dr Watson",
+    "clues": {
+      "bank": 956,
+      "boarsHead": 1006,
+      "carriageDepot": 933,
+      "chemist": 1049,
+      "docks": 897,
+      "hotel": 947,
+      "locksmith": 995,
+      "museum": 1040,
+      "newsagents": 921,
+      "park": 1015,
+      "pawnbroker": 885,
+      "scotlandYard": 965,
+      "theatre": 1030,
+      "tobacconist": 908
+    }
+  },
+  {
+    "number": 74,
+    "description": "case 74",
+    "name": "Sherlock Holmes and the Swiss Cheese from the Journal of Dr Watson",
+    "clues": {
+      "bank": 987,
+      "boarsHead": 891,
+      "carriageDepot": 1031,
+      "chemist": 959,
+      "docks": 1048,
+      "hotel": 949,
+      "locksmith": 991,
+      "museum": 1019,
+      "newsagents": 917,
+      "park": 1044,
+      "pawnbroker": 969,
+      "scotlandYard": 906,
+      "theatre": 1008,
+      "tobacconist": 938
+    }
+  },
+  {
+    "number": 75,
+    "description": "case 75",
+    "name": "The Mystery of the Three Missing Men from the Journal of Dr Watson",
+    "clues": {
+      "bank": 1004,
+      "boarsHead": 1035,
+      "carriageDepot": 974,
+      "chemist": 937,
+      "docks": 1023,
+      "hotel": 893,
+      "locksmith": 986,
+      "museum": 1012,
+      "newsagents": 904,
+      "park": 1042,
+      "pawnbroker": 952,
+      "scotlandYard": 922,
+      "theatre": 943,
+      "tobacconist": 1047
+    }
   }
 ]
