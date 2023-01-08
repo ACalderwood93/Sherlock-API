@@ -74,7 +74,7 @@
       "hotel": 328,
       "locksmith": 226,
       "museum": 372,
-      "newsagents": 372,
+      "newsagents": 86,
       "park": 408,
       "pawnbroker": 292,
       "theatre": 125,
@@ -1329,7 +1329,7 @@
     "clues": {
       "bank": 896,
       "boarsHead": 964,
-      "carriageDepot": 987,
+      "carriageDepot": 984,
       "chemist": 1039,
       "docks": 919,
       "hotel": 946,
@@ -1550,7 +1550,7 @@
       "pawnbroker": 969,
       "scotlandYard": 906,
       "theatre": 1008,
-      "tobacconist": 938
+      "tobacconist": 935
     }
   },
   {
