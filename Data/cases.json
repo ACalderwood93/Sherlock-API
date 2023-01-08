@@ -943,5 +943,320 @@
       "theatre": 819,
       "tobacconist": 711
     }
+  },
+  {
+    "number": 46,
+    "description": "case 46",
+    "name": "The Case of the 'Flying Scotsman' from the Journal of Dr Watson",
+    "clues": {
+      "bank": 687,
+      "boarsHead": 804,
+      "carriageDepot": 618,
+      "chemist": 701,
+      "docks": 814,
+      "hotel": 783,
+      "locksmith": 723,
+      "museum": 859,
+      "newsagents": 639,
+      "park": 878,
+      "pawnbroker": 827,
+      "scotlandYard": 660,
+      "theatre": 759,
+      "tobacconist": 737
+    }
+  },
+  {
+    "number": 47,
+    "description": "case 47",
+    "name": "The Curse of Cookfold Manor",
+    "clues": {
+      "bank": 753,
+      "boarsHead": 802,
+      "carriageDepot": 710,
+      "chemist": 769,
+      "docks": 622,
+      "hotel": 861,
+      "locksmith": 638,
+      "museum": 738,
+      "newsagents": 658,
+      "park": 877,
+      "pawnbroker": 839,
+      "scotlandYard": 683,
+      "theatre": 815,
+      "tobacconist": 717
+    }
+  },
+  {
+    "number": 48,
+    "description": "case 48",
+    "name": "The Case of the Brookmere Horseman",
+    "clues": {
+      "bank": 625,
+      "boarsHead": 760,
+      "carriageDepot": 641,
+      "chemist": 880,
+      "docks": 725,
+      "hotel": 860,
+      "locksmith": 752,
+      "museum": 830,
+      "newsagents": 784,
+      "park": 666,
+      "pawnbroker": 686,
+      "scotlandYard": 838,
+      "theatre": 797,
+      "tobacconist": 699
+    }
+  },
+  {
+    "number": 49,
+    "description": "case 49",
+    "name": "The Case of the Charred Shikari from the Journal of Dr Watson",
+    "clues": {
+      "bank": 786,
+      "boarsHead": 662,
+      "carriageDepot": 773,
+      "chemist": 833,
+      "docks": 684,
+      "hotel": 869,
+      "locksmith": 617,
+      "museum": 808,
+      "newsagents": 705,
+      "park": 763,
+      "pawnbroker": 841,
+      "scotlandYard": 640,
+      "theatre": 857,
+      "tobacconist": 730
+    }
+  },
+  {
+    "number": 50,
+    "description": "case 50",
+    "name": "Sherlock Holmes and the Gong from Natal from the Journal of Dr Watson",
+    "clues": {
+      "bank": 782,
+      "boarsHead": 831,
+      "carriageDepot": 680,
+      "chemist": 796,
+      "docks": 733,
+      "hotel": 823,
+      "locksmith": 706,
+      "museum": 849,
+      "newsagents": 746,
+      "park": 881,
+      "pawnbroker": 621,
+      "scotlandYard": 761,
+      "theatre": 870,
+      "tobacconist": 651
+    }
+  },
+  {
+    "number": 51,
+    "description": "case 51",
+    "name": "The Case of the Lost Winner from the Journal of Dr Watson",
+    "clues": {
+      "bank": 707,
+      "boarsHead": 825,
+      "carriageDepot": 714,
+      "chemist": 626,
+      "docks": 811,
+      "hotel": 845,
+      "locksmith": 642,
+      "museum": 736,
+      "newsagents": 882,
+      "park": 750,
+      "pawnbroker": 789,
+      "scotlandYard": 659,
+      "theatre": 863,
+      "tobacconist": 677
+    }
+  },
+  {
+    "number": 52,
+    "description": "case 52",
+    "name": "The Mystery of the Whispered Scheme from the Journal of Dr Watson",
+    "clues": {
+      "bank": 681,
+      "boarsHead": 792,
+      "carriageDepot": 620,
+      "chemist": 807,
+      "docks": 693,
+      "hotel": 873,
+      "locksmith": 728,
+      "museum": 643,
+      "newsagents": 818,
+      "park": 846,
+      "pawnbroker": 742,
+      "scotlandYard": 656,
+      "theatre": 834,
+      "tobacconist": 767
+    }
+  },
+  {
+    "number": 53,
+    "description": "case 53",
+    "name": "The Case of the First Class Murder",
+    "clues": {
+      "bank": 696,
+      "boarsHead": 720,
+      "carriageDepot": 632,
+      "chemist": 744,
+      "docks": 840,
+      "hotel": 879,
+      "locksmith": 646,
+      "museum": 780,
+      "newsagents": 665,
+      "park": 864,
+      "pawnbroker": 832,
+      "scotlandYard": 799,
+      "theatre": 820,
+      "tobacconist": 679
+    }
+  },
+  {
+    "number": 54,
+    "description": "case 54",
+    "name": "The Adventure of the Missing Spur from the Journal of Dr Watson",
+    "clues": {
+      "bank": 631,
+      "boarsHead": 795,
+      "carriageDepot": 650,
+      "chemist": 779,
+      "docks": 809,
+      "hotel": 848,
+      "locksmith": 765,
+      "museum": 826,
+      "newsagents": 668,
+      "park": 874,
+      "pawnbroker": 755,
+      "scotlandYard": 691,
+      "theatre": 732,
+      "tobacconist": 716
+    }
+  },
+  {
+    "number": 55,
+    "description": "case 55",
+    "name": "The Mysterious Murder of the Shadwell Shylock from the Journal of Dr Watson",
+    "clues": {
+      "bank": 801,
+      "boarsHead": 712,
+      "carriageDepot": 667,
+      "chemist": 694,
+      "docks": 817,
+      "hotel": 764,
+      "locksmith": 688,
+      "museum": 781,
+      "newsagents": 634,
+      "park": 835,
+      "pawnbroker": 741,
+      "scotlandYard": 719,
+      "theatre": 852,
+      "tobacconist": 654
+    }
+  },
+  {
+    "number": 56,
+    "description": "case 56",
+    "name": "The Mystery of the Mortal Wound from the Journal of Dr Watson",
+    "clues": {
+      "bank": 772,
+      "boarsHead": 854,
+      "carriageDepot": 726,
+      "chemist": 843,
+      "docks": 731,
+      "hotel": 872,
+      "locksmith": 700,
+      "museum": 828,
+      "newsagents": 673,
+      "park": 813,
+      "pawnbroker": 751,
+      "scotlandYard": 652,
+      "theatre": 788,
+      "tobacconist": 627
+    }
+  },
+  {
+    "number": 57,
+    "description": "case 57",
+    "name": "The Case of the Weasel's Paw from the Journal of Dr Watson",
+    "clues": {
+      "bank": 675,
+      "boarsHead": 822,
+      "carriageDepot": 661,
+      "chemist": 865,
+      "docks": 695,
+      "hotel": 844,
+      "locksmith": 644,
+      "museum": 793,
+      "newsagents": 715,
+      "park": 871,
+      "pawnbroker": 635,
+      "scotlandYard": 619,
+      "theatre": 775,
+      "tobacconist": 739
+    }
+  },
+  {
+    "number": 58,
+    "description": "case 58",
+    "name": "The Theft of the Irina Pendant from the Journal of Dr Watson",
+    "clues": {
+      "bank": 636,
+      "boarsHead": 787,
+      "carriageDepot": 698,
+      "chemist": 821,
+      "docks": 624,
+      "hotel": 867,
+      "locksmith": 709,
+      "museum": 762,
+      "newsagents": 647,
+      "park": 722,
+      "pawnbroker": 853,
+      "scotlandYard": 672,
+      "theatre": 748,
+      "tobacconist": 682
+    }
+  },
+  {
+    "number": 59,
+    "description": "case 59",
+    "name": "Sherlock Holmes and the Brindled Cat from the Journal of Dr Watson",
+    "clues": {
+      "bank": 708,
+      "boarsHead": 855,
+      "carriageDepot": 648,
+      "chemist": 727,
+      "docks": 829,
+      "hotel": 875,
+      "locksmith": 633,
+      "museum": 747,
+      "newsagents": 847,
+      "park": 806,
+      "pawnbroker": 669,
+      "scotlandYard": 774,
+      "theatre": 791,
+      "tobacconist": 685
+    }
+  },
+  {
+    "number": 60,
+    "description": "case 60",
+    "name": "The Adventure of the Disappearing Tablet",
+    "clues": {
+      "bank": 630,
+      "boarsHead": 740,
+      "carriageDepot": 655,
+      "chemist": 749,
+      "docks": 676,
+      "hotel": 776,
+      "locksmith": 702,
+      "museum": 768,
+      "newsagents": 810,
+      "park": 856,
+      "pawnbroker": 689,
+      "scotlandYard": 842,
+      "theatre": 798,
+      "tobacconist": 721
+    }
   }
 ]
