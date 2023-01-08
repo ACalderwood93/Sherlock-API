@@ -628,5 +628,320 @@
       "scotlandYard": 98,
       "tobacconist": 276
     }
+  },
+  {
+    "number": 31,
+    "description": "case 31",
+    "name": "Sherlock Holmes and the Cambridge Night Climber from the Journal of Dr Watson",
+    "clues": {
+      "bank": 551,
+      "boarsHead": 491,
+      "carriageDepot": 425,
+      "chemist": 447,
+      "docks": 615,
+      "hotel": 501,
+      "locksmith": 565,
+      "museum": 436,
+      "newsagents": 526,
+      "park": 582,
+      "pawnbroker": 459,
+      "scotlandYard": 596,
+      "theatre": 476,
+      "tobacconist": 543
+    }
+  },
+  {
+    "number": 32,
+    "description": "case 32",
+    "name": "The Case of the Cunning Bank Clerk",
+    "clues": {
+      "bank": 594,
+      "boarsHead": 431,
+      "carriageDepot": 477,
+      "chemist": 521,
+      "docks": 564,
+      "hotel": 443,
+      "locksmith": 512,
+      "museum": 545,
+      "newsagents": 458,
+      "park": 557,
+      "pawnbroker": 534,
+      "scotlandYard": 572,
+      "theatre": 465,
+      "tobacconist": 494
+    }
+  },
+  {
+    "number": 33,
+    "description": "case 33",
+    "name": "The Mystery of the Lascar's Kiss from the Journal of Dr Watson",
+    "clues": {
+      "bank": 449,
+      "boarsHead": 539,
+      "carriageDepot": 586,
+      "chemist": 490,
+      "docks": 427,
+      "hotel": 508,
+      "locksmith": 575,
+      "museum": 613,
+      "newsagents": 439,
+      "park": 517,
+      "pawnbroker": 604,
+      "scotlandYard": 467,
+      "theatre": 563,
+      "tobacconist": 480
+    }
+  },
+  {
+    "number": 34,
+    "description": "case 34",
+    "name": "The Mystery of the Mummy's Curse",
+    "clues": {
+      "bank": 499,
+      "boarsHead": 434,
+      "carriageDepot": 542,
+      "chemist": 580,
+      "docks": 454,
+      "hotel": 610,
+      "locksmith": 513,
+      "museum": 421,
+      "newsagents": 569,
+      "park": 531,
+      "pawnbroker": 598,
+      "scotlandYard": 468,
+      "theatre": 555,
+      "tobacconist": 488
+    }
+  },
+  {
+    "number": 35,
+    "description": "case 35",
+    "name": "The Adventure of the Penurious Pawnbroker",
+    "clues": {
+      "bank": 432,
+      "boarsHead": 483,
+      "carriageDepot": 579,
+      "chemist": 562,
+      "docks": 444,
+      "hotel": 516,
+      "locksmith": 495,
+      "museum": 547,
+      "newsagents": 606,
+      "park": 463,
+      "pawnbroker": 535,
+      "scotlandYard": 474,
+      "theatre": 587,
+      "tobacconist": 503
+    }
+  },
+  {
+    "number": 36,
+    "description": "case 36",
+    "name": "The Case of the Shattered Temple from the Journal of Dr Watson",
+    "clues": {
+      "bank": 492,
+      "boarsHead": 537,
+      "carriageDepot": 455,
+      "chemist": 585,
+      "docks": 506,
+      "hotel": 570,
+      "locksmith": 438,
+      "museum": 553,
+      "newsagents": 518,
+      "park": 595,
+      "pawnbroker": 423,
+      "scotlandYard": 612,
+      "theatre": 530,
+      "tobacconist": 472
+    }
+  },
+  {
+    "number": 37,
+    "description": "case 37",
+    "name": "The Strange Affair of the Missing Major from the Journal of Dr Watson",
+    "clues": {
+      "bank": 481,
+      "boarsHead": 590,
+      "carriageDepot": 538,
+      "chemist": 429,
+      "docks": 442,
+      "hotel": 497,
+      "locksmith": 561,
+      "museum": 460,
+      "newsagents": 577,
+      "park": 525,
+      "pawnbroker": 608,
+      "scotlandYard": 549,
+      "theatre": 469,
+      "tobacconist": 515
+    }
+  },
+  {
+    "number": 38,
+    "description": "case 38",
+    "name": "The Mystery of the Impossible Death from the Journal of Dr Watson",
+    "clues": {
+      "bank": 446,
+      "boarsHead": 540,
+      "carriageDepot": 478,
+      "chemist": 566,
+      "docks": 588,
+      "hotel": 433,
+      "locksmith": 486,
+      "museum": 556,
+      "newsagents": 457,
+      "park": 529,
+      "pawnbroker": 609,
+      "scotlandYard": 426,
+      "theatre": 505,
+      "tobacconist": 466
+    }
+  },
+  {
+    "number": 39,
+    "description": "case 39",
+    "name": "The Adventure of the Bizarre Murder from the Journal of Dr Watson",
+    "clues": {
+      "bank": 424,
+      "boarsHead": 532,
+      "carriageDepot": 581,
+      "chemist": 487,
+      "docks": 440,
+      "hotel": 509,
+      "locksmith": 554,
+      "museum": 451,
+      "newsagents": 544,
+      "park": 599,
+      "pawnbroker": 462,
+      "scotlandYard": 568,
+      "theatre": 519,
+      "tobacconist": 475
+    }
+  },
+  {
+    "number": 40,
+    "description": "case 40",
+    "name": "The Adventure of the Glittering Prize",
+    "clues": {
+      "bank": 456,
+      "boarsHead": 541,
+      "carriageDepot": 593,
+      "chemist": 430,
+      "docks": 527,
+      "hotel": 445,
+      "locksmith": 578,
+      "museum": 552,
+      "newsagents": 473,
+      "park": 514,
+      "pawnbroker": 603,
+      "scotlandYard": 482,
+      "theatre": 567,
+      "tobacconist": 496
+    }
+  },
+  {
+    "number": 41,
+    "description": "case 41",
+    "name": "The Adventure of the Avenged Author from the Journal of Dr Watson",
+    "clues": {
+      "bank": 502,
+      "boarsHead": 437,
+      "carriageDepot": 597,
+      "chemist": 546,
+      "docks": 479,
+      "hotel": 571,
+      "locksmith": 533,
+      "museum": 611,
+      "newsagents": 461,
+      "park": 520,
+      "pawnbroker": 584,
+      "scotlandYard": 558,
+      "theatre": 450,
+      "tobacconist": 493
+    }
+  },
+  {
+    "number": 42,
+    "description": "case 42",
+    "name": "The Case of the Campanologist's Last Clanger",
+    "clues": {
+      "bank": 485,
+      "boarsHead": 524,
+      "carriageDepot": 560,
+      "chemist": 453,
+      "docks": 614,
+      "hotel": 591,
+      "locksmith": 441,
+      "museum": 601,
+      "newsagents": 498,
+      "park": 428,
+      "pawnbroker": 536,
+      "scotlandYard": 573,
+      "theatre": 510,
+      "tobacconist": 464
+    }
+  },
+  {
+    "number": 43,
+    "description": "case 43",
+    "name": "The Adventure of the Boomerang Boys",
+    "clues": {
+      "bank": 500,
+      "boarsHead": 559,
+      "carriageDepot": 607,
+      "chemist": 484,
+      "docks": 470,
+      "hotel": 589,
+      "locksmith": 548,
+      "museum": 448,
+      "newsagents": 422,
+      "park": 602,
+      "pawnbroker": 523,
+      "scotlandYard": 616,
+      "theatre": 574,
+      "tobacconist": 507
+    }
+  },
+  {
+    "number": 44,
+    "description": "case 44",
+    "name": "The Adventure of the Distracted Police Commissioner",
+    "clues": {
+      "bank": 471,
+      "boarsHead": 576,
+      "carriageDepot": 605,
+      "chemist": 511,
+      "docks": 592,
+      "hotel": 452,
+      "locksmith": 522,
+      "museum": 504,
+      "newsagents": 550,
+      "park": 435,
+      "pawnbroker": 600,
+      "scotlandYard": 583,
+      "theatre": 528,
+      "tobacconist": 489
+    }
+  },
+  {
+    "number": 45,
+    "description": "case 45",
+    "name": "Sherlock Holmes and the Chinese Vase from the Journal of Dr Watson",
+    "clues": {
+      "bank": 690,
+      "boarsHead": 637,
+      "carriageDepot": 770,
+      "chemist": 790,
+      "docks": 678,
+      "hotel": 812,
+      "locksmith": 757,
+      "museum": 836,
+      "newsagents": 664,
+      "park": 858,
+      "pawnbroker": 735,
+      "scotlandYard": 645,
+      "theatre": 819,
+      "tobacconist": 711
+    }
   }
 ]
